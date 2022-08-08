@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  app:
+    image: 'fleet-management-system:latest'
+    build:
+      context: .
+    container_name: fleet-management-system
+    environment:
+      - SPRING_PROFILES_ACTIVE=default
+    ports:
+      - 9191:8080
