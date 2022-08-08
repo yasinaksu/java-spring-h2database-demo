@@ -1,5 +1,3 @@
-# Trendyol Test Case
-
 ## Fleet Management System
 
 ## Summary
