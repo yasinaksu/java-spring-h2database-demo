@@ -26,7 +26,7 @@ vehicles make deliveries to predetermined locations along a certain route.
 git clone https://github.com/DevelopmentHiring/YasinAksu.git
 ```
 
-### Note: 
+### Note 
 The system can provide test records to the database for a quick start according to the given test case description pdf file. For this, it will be enough to uncomment `@Component` annotation above the `com.fleetmanagament.dataaccess.dataseeder.InitialDataSeed` class.
 
 # Run & Build
