@@ -23,7 +23,7 @@ vehicles make deliveries to predetermined locations along a certain route.
 
 ### Git clone
 ```bash
-git clone https://github.com/DevelopmentHiring/YasinAksu.git
+git clone https://github.com/yasinaksu/java-spring-h2database-demo.git
 ```
 
 ### Note 
